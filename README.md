@@ -66,4 +66,4 @@ model.add(Dense(len(train_y[0]), activation='softmax')) #Add 3rd dense layer wit
 #Metrics = Accuracy - Calculates how often predictions equal labels
 
 **Next Steps:**
-Chatbot is a booming field in deep learning space and can be used for commercial benefits. This project has a lot of opportunity for enhancements. If you are trying to learn from this code, try making custom enhancements like adding datetime to the chat window, add 'You typing.../Bot typing...' message to appear in the chat window while typing in the text box, add buttons for categories, etc.,
+Chatbot is a booming field in deep learning space and can be used for commercial benefits. This project has a lot of opportunity for enhancements. If you are trying to learn from this code, try making custom enhancements like adding datetime to the chat window, add 'You typing.../Bot typing...' message to appear in the chat window while typing in the text box, add buttons for categories, incorporate sentimental analysis for bot response, text to speech to text, autoamted spell correction, next word prediction, add emojis, etc.,
